@@ -1,1 +1,1 @@
-0x02 Shell input output redirections and filter
+0x02 Shell input output redirections and filtering	
