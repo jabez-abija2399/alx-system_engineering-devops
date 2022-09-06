@@ -1,2 +1,2 @@
-i#/bin/bash
-cut -d":" -f 1,6 /etc/password |sort 
+#!/bin/bash
+sort /etc/passwd | cut -d ':' -f 1,6 
